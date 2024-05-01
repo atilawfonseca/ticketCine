@@ -1,0 +1,2 @@
+tentando entender melhor como fazer funcionar o bootstrap, sass, js, em paginas web. links de leitura:
+https://getbootstrap.com/docs/5.0/getting-started/parcel/
